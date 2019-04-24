@@ -1,0 +1,17 @@
+{
+  "name": "leap_year",
+  "version": "1.0.0",
+  "description": "check year is leap year or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDepencies": {
+    "jest": "24.7.1"
+  },
+  "author": "Javed",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
